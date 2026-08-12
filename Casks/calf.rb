@@ -1,6 +1,6 @@
 cask "calf" do
-  version "0.9.17"
-  sha256 "a2d3811807fe701357cc5adb166b4ec31652b266d5018757fc93fba3bee9e05e"
+  version "0.9.18"
+  sha256 "97657bf84d025b8537374f551628ee202482657947f89f669d446e325be9c4d2"
 
   url "https://github.com/enegalan/calf/releases/download/v#{version}/calf-#{version}.dmg"
   name "calf"
